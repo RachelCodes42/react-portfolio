@@ -17,8 +17,8 @@ export default function Portfolio() {
           <div class='card-body text-center m-3'>
             <img class='mb-3' src='public/images/scheduler.png' alt='test'></img>
             <h3>Sportify</h3>
-            <p><a href='https://rachelcodes42.github.io/dynamic-hourly-scheduler/'>Live Preview ></a></p>
-            <p><a href='https://github.com/RachelCodes42/dynamic-hourly-scheduler'>GitHub Repo ></a></p>
+            <p><a href='https://rachelcodes42.github.io/dynamic-hourly-scheduler/'>Live Preview </a></p>
+            <p><a href='https://github.com/RachelCodes42/dynamic-hourly-scheduler'>GitHub Repo </a></p>
           </div>
         </div>
         <div class='m-3 card'>
