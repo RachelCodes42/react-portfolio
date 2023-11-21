@@ -25,7 +25,7 @@ export default function PortfolioContainer() {
 
   return (
     <>
-    <h1 class='m-3'>Seth Wooten</h1>
+    <h1 class='m-3'>Rachel Hochman</h1>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </>
