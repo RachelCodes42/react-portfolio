@@ -32,7 +32,7 @@ export default function Portfolio() {
         <div class='m-3 card'>
           <div class='card-body text-center m-3'>
             <img class='mb-3' src='public/images/codequiz.png' alt='test'></img>
-            <h3>Code Quizr</h3>
+            <h3>Code Quiz</h3>
             <p><a href='https://rachelcodes42.github.io/code-quiz/'>Live Preview </a></p>
             <p><a href='https://github.com/RachelCodes42/code-quiz'>GitHub Repo </a></p>
           </div>
