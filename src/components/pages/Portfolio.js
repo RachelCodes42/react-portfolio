@@ -1,5 +1,5 @@
 import React from 'react';
-
+import imgSrc from '../../images/weather.png'
 export default function Portfolio() {
   return (
     <div class='d-flex flex-column justify-content-center align-items-center m-3'>
@@ -7,8 +7,8 @@ export default function Portfolio() {
       <div class='d-flex flex-row flex-wrap justify-content-center col-sm-9'>
         <div class='m-3 card'>
           <div class='card-body text-center m-3'>
-            <img class='mb-3' src='public/images/weather.png' alt='test'></img>
-            <h3>Moovie Reviews</h3>
+            <img class='mb-3' src={imgSrc} alt='test'></img>
+            <h3>Weather Forecaster</h3>
             <p><a href='https://rachelcodes42.github.io/weather-forecast-dashboard/'>Live Preview </a></p>
             <p><a href='https://github.com/RachelCodes42/weather-forecast-dashboard'>GitHub Repo </a></p>
           </div>
