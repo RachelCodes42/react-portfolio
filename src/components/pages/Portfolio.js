@@ -48,7 +48,7 @@ export default function Portfolio() {
         <div class='m-3 card'>
           <div class='card-body text-center m-3'>
             <img class='mb-3' src='public/images/mars.png' alt='test'></img>
-            <h3>Mars Rover</h3>
+            <h3>Mars</h3>
             <p><a href='https://chrisdehaan.github.io/Team-SCCRM/'>Live Preview </a></p>
             <p><a href='https://github.com/ChrisDeHaan/Team-SCCRM'>GitHub Repo </a></p>
           </div>
